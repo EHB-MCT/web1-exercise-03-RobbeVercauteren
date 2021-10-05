@@ -1,3 +1,19 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
 }
+
+.een p {
+    background-color: red;
+}
+
+.twee>p {
+    background-color: yellow;
+}
+
+.drie h2+p {
+    background-color: blue;
+}
+
+.vier h3~p {
+    background-color: green;
+}
